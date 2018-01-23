@@ -1,4 +1,4 @@
-from heap import *
+from heapsort.heapsort import *
 
 def main():
     l1 = [67, 64, 60, 58, 57, 55, 52, 43, 40, 32, 28, 20, 18, 15, 8, 3]
